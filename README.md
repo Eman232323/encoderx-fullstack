@@ -148,10 +148,3 @@ The backend connects to MongoDB Atlas using a connection string stored securely 
 
 Developed by Eman as part of the EncoderX Remote Internship Batch 02.
 
-✅ Backend completed
-✅ Authentication completed
-✅ Task CRUD APIs completed
-✅ MongoDB Atlas connected
-✅ Postman API testing completed
-✅ React frontend completed
-🔄 Final GitHub upload and deployment
